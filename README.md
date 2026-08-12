@@ -31,10 +31,10 @@ Un conversor de unidades CSS (**PX ↔ EM**) desarrollado en Java. El proyecto p
      │   ├── ✦ ConversorUnidades.java
      │   ├── ✦ Main.java
      │   └── ✦ VentanaConversor.java
-     ├── 📂 web/
-     │   ├── ✦ index.html
-     │   ├── ✦ styles.css
-     │   └── ✦ script.js
+     ├── 📂 img/
+     │   ├── ✦ img_blanco.png
+     │   ├── ✦ img_datos_llenos.png
+     │   └── ✦ pxaem.png
      └── 📑 README.md
 ```
 
